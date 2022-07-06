@@ -1,6 +1,6 @@
 # AUTOMATIC RECONSTRUCTION OF 3-DIMENSIONAL MODELS FROM SINGLE VIEW FACIAL IMAGES
 
-We propose a method to train a deep learning model which produces a 3D models from raw single-view images, without ground-truth 3D, multiple views, 2D/3D keypoints, prior shape models or any other supervision.
+A method to train & test a deep learning model which produces a 3D models from raw single-view images, without ground-truth 3D, multiple views, 2D/3D keypoints, prior shape models or any other supervision.
 
 
 ## Setup (with [Anaconda](https://www.anaconda.com/))
